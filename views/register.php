@@ -6,8 +6,7 @@
   <title>registro</title>
 </head>
 <body>
-  <h1>
-    Hello, Worl
-  </h1>
+<form>
+</form>
 </body>
 </html>
